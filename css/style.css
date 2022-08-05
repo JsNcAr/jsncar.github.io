@@ -30,7 +30,7 @@ main {
     overflow: hidden;
 }
 
-a {
+.unstyled-link {
     color: White;
     text-decoration: none;
     text-align: center;
