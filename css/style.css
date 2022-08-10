@@ -28,6 +28,7 @@ nav {
 
 main {
     overflow: hidden;
+    margin: 5px;
 }
 
 .unstyled-link {
